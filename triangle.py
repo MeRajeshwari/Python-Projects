@@ -1,3 +1,4 @@
+//Program for recursive triangle
 def triangle(n):
     return recursive_triangle(n, n)
 def recursive_triangle(x, n):
